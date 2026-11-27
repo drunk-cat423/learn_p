@@ -1,0 +1,11 @@
+# Obsidian 本地状态（每台机器不同，不提交）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+node_modules/
