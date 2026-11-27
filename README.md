@@ -1,6 +1,7 @@
 # learn_p · 现代 Web 平台学习仓库
 
 > **第一次使用？先看 [START-HERE.md](./START-HERE.md)**，30 分钟走完 5 步就能开始学。
+> **换设备或换 AI 助手？看 [HANDOFF.md](./HANDOFF.md)**，1 分钟无缝接上。
 
 以 [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) 的 **255 篇指南**为教材，系统学习现代 Web 平台能力。
 
