@@ -1,5 +1,7 @@
 # learn_p · 现代 Web 平台学习仓库
 
+> **第一次使用？先看 [START-HERE.md](./START-HERE.md)**，30 分钟走完 5 步就能开始学。
+
 以 [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) 的 **255 篇指南**为教材，系统学习现代 Web 平台能力。
 
 面向对象：以 TypeScript / Next.js / React 为主的后端开发者，目标是知道**什么时候该用原生 Web API，而不是手写 JS 或引入第三方库**。
